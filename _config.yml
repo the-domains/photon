@@ -1,0 +1,28 @@
+name: 50mp
+favicon: null
+layout_spectrum: 0.5370875378139317
+typography_spectrum: 0.5650624008849263
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9671198860742152
+  lightness: 0.2805462491232902
+  saturation: 0.2731201311107725
+  rhythmicContrast: 0.3778690970502794
+purpose: []
